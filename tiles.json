@@ -1,0 +1,19 @@
+{
+	"data":[
+		{
+			"id":"tile1",
+			"title" : "Overall Health1",
+			"info" : "Good",
+			"infoState" : "Success"
+		},{
+			"id":"tile2",
+			"title" : "Overall Health2",
+			"info" : "Bad",
+			"infoState" : "Error"
+		},{
+			"id":"tile3",
+			"title" : "Overall Health3",
+			"info" : "Ok",
+			"infoState" : "Success"
+		}]
+}
