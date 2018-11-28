@@ -1,7 +1,6 @@
 [{
 	"id": 1,
 	"name": "Leanne Graham",
-	"username": "Bret",
 	"email": "Sincere@april.biz",
 	"address": {
 		"street": "Kulas Light",
@@ -14,13 +13,11 @@
 		}
 	},
 	"sex": "M",
-	"dob": "12/22/1998",
-	"phone": "1-770-736-8031 x56442"
+	"dob": "12/22/1998"
 },
 {
 	"id": 2,
 	"name": "Ervin Howell",
-	"username": "Antonette",
 	"email": "Shanna@melissa.tv",
 	"address": {
 		"street": "Victor Plains",
@@ -33,13 +30,11 @@
 		}
 	},
 	"sex": "M",
-	"dob": "2/12/1995",
-	"phone": "010-692-6593 x09125"
+	"dob": "2/12/1995"
 },
 {
 	"id": 3,
 	"name": "Clementine Bauch",
-	"username": "Samantha",
 	"email": "Nathan@yesenia.net",
 	"address": {
 		"street": "Douglas Extension",
@@ -52,13 +47,11 @@
 		}
 	},
 	"sex": "M",
-	"dob": "7/29/1992",
-	"phone": "1-463-123-4447"
+	"dob": "7/29/1992"
 },
 {
 	"id": 4,
 	"name": "Patricia Lebsack",
-	"username": "Karianne",
 	"email": "Julianne.OConner@kory.org",
 	"address": {
 		"street": "Hoeger Mall",
@@ -71,13 +64,11 @@
 		}
 	},
 	"sex": "F",
-	"dob": "10/20/1999",
-	"phone": "493-170-9623 x156"
+	"dob": "10/20/1999"
 },
 {
 	"id": 5,
 	"name": "Chelsey Dietrich",
-	"username": "Kamren",
 	"email": "Lucio_Hettinger@annie.ca",
 	"address": {
 		"street": "Skiles Walks",
@@ -90,13 +81,11 @@
 		}
 	},
 	"sex": "F",
-	"dob": "5/30/1991",
-	"phone": "(254)954-1289"
+	"dob": "5/30/1991"
 },
 {
 	"id": 6,
 	"name": "Mrs. Dennis Schulist",
-	"username": "Leopoldo_Corkery",
 	"email": "Karley_Dach@jasper.info",
 	"address": {
 		"street": "Norberto Crossing",
@@ -109,13 +98,11 @@
 		}
 	},
 	"sex": "F",
-	"dob": "3/15/1994",
-	"phone": "1-477-935-8478 x6430"
+	"dob": "3/15/1994"
 },
 {
 	"id": 7,
 	"name": "Kurtis Weissnat",
-	"username": "Elwyn.Skiles",
 	"email": "Telly.Hoeger@billy.biz",
 	"address": {
 		"street": "Rex Trail",
@@ -128,13 +115,11 @@
 		}
 	},
 	"sex": "F",
-	"dob": "9/27/1988",
-	"phone": "210.067.6132"
+	"dob": "9/27/1988"
 },
 {
 	"id": 8,
 	"name": "Nicholas Runolfsdottir V",
-	"username": "Maxime_Nienow",
 	"email": "Sherwood@rosamond.me",
 	"address": {
 		"street": "Ellsworth Summit",
@@ -147,13 +132,11 @@
 		}
 	},
 	"sex": "M",
-	"dob": "7/22/1996",
-	"phone": "586.493.6943 x140"
+	"dob": "7/22/1996"
 },
 {
 	"id": 9,
 	"name": "Glenna Reichert",
-	"username": "Delphine",
 	"email": "Chaim_McDermott@dana.io",
 	"address": {
 		"street": "Dayna Park",
@@ -166,13 +149,11 @@
 		}
 	},
 	"sex": "F",
-	"dob": "11/29/1992",
-	"phone": "(775)976-6794 x41206"
+	"dob": "11/29/1992"
 },
 {
 	"id": 10,
 	"name": "Clementina DuBuque",
-	"username": "Moriah.Stanton",
 	"email": "Rey.Padberg@karina.biz",
 	"address": {
 		"street": "Kattie Turnpike",
@@ -185,6 +166,5 @@
 		}
 	},
 	"sex": "F",
-	"dob": "8/15/1987",
-	"phone": "024-648-3804"
+	"dob": "8/15/1987"
 }]
